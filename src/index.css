@@ -1,0 +1,47 @@
+.font{
+  font-family: 'Montserrat', sans-serif;
+}
+.app-color{
+  height: 100vh;
+  background: #f6f6f6;;
+  overflow: auto;
+}
+.nav-brand{
+  color: #E88F2A;
+}
+.btn-style{
+  color: #E88F2A!important;
+  border: 1px solid #E88F2A!important;
+  background: transparent!important
+}
+.btn-style:hover{
+  background-color: #E88F2A!important;
+  color: #fff!important
+}
+.clothes-menu{
+  padding: 30px 0 ;
+}
+
+.clothes-menu .line{
+  display: block;
+  height: 2px;
+  width: 130px;
+  background: #E88F2A;
+  margin: auto;
+}
+.category-btns{
+    padding: 20px;
+}
+
+.card-price{
+  color: #E88F2A;
+}
+
+#focus:focus{
+  background-color: #b45b35;
+  color: #Fff;
+  border: 1px solid #b45b35;
+}
+#btn{
+border: 1px solid #b45b35!important;
+}
